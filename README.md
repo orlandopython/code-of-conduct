@@ -1,6 +1,6 @@
 # Code of Conduct
 
-*This code of conduct is based on the one from Django Girls found at [https://djangogirls.org/coc/](https://djangogirls.org/coc/)
+*This code of conduct is based on the one from Django Girls found at [https://djangogirls.org/coc/](https://djangogirls.org/coc/)*
 
 The Orlando Python User Group (OPUG) aims to be a welcoming event, where people meet in a friendly environment. Accordingly, we expect that all participants are expected to show respect and courtesy to other participants at every meetup and in the GitHub organization.
 
